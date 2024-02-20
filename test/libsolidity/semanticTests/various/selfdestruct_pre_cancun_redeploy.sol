@@ -79,13 +79,13 @@ contract D {
 // EVMVersion: =shanghai
 // ----
 // constructor(), 1 ether ->
-// gas irOptimized: 430253
+// gas irOptimized: 426590
 // gas legacy: 690244
 // gas legacyOptimized: 412799
 // exists() -> false
 // test_deploy_and_terminate() ->
 // ~ emit Deployed(address,bytes32) from 0x137aa4dfc0911524504fcd4d98501f179bc13b4a: 0x7e6580007e709ac52945fae182c61131d42634e8, 0x1234000000000000000000000000000000000000000000000000000000000000
-// gas irOptimized: 117489
+// gas irOptimized: 117494
 // gas legacy: 118895
 // gas legacyOptimized: 117137
 // exists() -> false

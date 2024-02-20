@@ -35,7 +35,7 @@ contract D {
 // EVMVersion: <=shanghai
 // ----
 // constructor(), 2 ether ->
-// gas irOptimized: 223918
+// gas irOptimized: 221547
 // gas legacy: 374024
 // gas legacyOptimized: 239815
 // balance: 0x1111111111111111111111111111111111111111 -> 0
@@ -43,7 +43,7 @@ contract D {
 // balance -> 2000000000000000000
 // exists() -> false
 // test_deploy_and_terminate_twice() ->
-// gas irOptimized: 135350
+// gas irOptimized: 134934
 // gas legacy: 165584
 // gas legacyOptimized: 144396
 // exists() -> false

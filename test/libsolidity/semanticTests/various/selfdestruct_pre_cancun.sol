@@ -62,7 +62,7 @@ contract D {
 // EVMVersion: =shanghai
 // ----
 // constructor(), 1 ether ->
-// gas irOptimized: 242428
+// gas irOptimized: 239848
 // gas legacy: 373563
 // gas legacyOptimized: 234516
 // exists() -> false

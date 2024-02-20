@@ -17,7 +17,7 @@ contract Main {
 }
 // ----
 // constructor(): "abc", true
-// gas irOptimized: 104374
+// gas irOptimized: 103866
 // gas legacy: 143300
 // gas legacyOptimized: 102933
 // getFlag() -> true
